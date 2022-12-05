@@ -7,7 +7,7 @@
 //{"key":"Voflix","name":"🐞Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Lgyy","name":"🐞蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"LiteApple","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_xBPQ_COKEMV","name":"🐞Coke","type":3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/ext/COKEMV.json"},
+{"key":"csp_xBPQ_COKEMV","name":"🐞CokeXB","type":3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/ext/COKEMV.json"},
 {"key":"Coke","name":"🐞Coke","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
 {"key":"csp_xBPQ_VOFLIX","name":"🐞Voflix","type":3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/ext/VOFLIX.json"},
 {"key":"csp_xBPQ_LIBVIO","name":"🐞Libvio","type":3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/ext/LIBVIO.json"},
