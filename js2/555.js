@@ -1,6 +1,6 @@
 muban.mxpro.二级.desc = '.module-info-item:eq(-1)&&Text;;;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(0)&&Text';
 var rule = {
-    title:'555影视[飞]',
+    title:'555',
     模板:'mxpro',
     // host:'https://www.555dy.app',
     // host:'https://www.555yy2.com',
