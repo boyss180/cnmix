@@ -2,7 +2,6 @@
   "sites": [
 {"key":"Coke","name":"Coke (dora)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
 {"key":"csp_Cokemv","name":"Coke-new","type":3,"api":"csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/panda230320.jar"},
-{"key":"csp_Voflix","name":"Voflix-new","type":3,"api":"csp_Voflix","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/panda230320.jar"},
 //{"key": "dr_cokemv_newnew","name":"Coke (drpy)","type":3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/cokemv_newnew.js"},
 {"key":"csp_xBPQ_VOFLIX","name":"Voflix (xbpq)","type":3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/ext/VOFLIX.json"},
 {"key":"Lib","name":"Libvio (dora)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
