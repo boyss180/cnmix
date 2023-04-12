@@ -1,6 +1,6 @@
 {
   "sites": [
-{"key":"csp_Cokemv","name":"Coke-new","type":3,"api":"csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/panda230320.jar"},
+{"key":"csp_Cokemv","name":"Coke-new","type":3,"api":"csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable":1,},
 {"key":"dr_cokemv_n","name":"Coke (js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/cokemv_n.js"},
 {"key":"dr_voflix_n","name":"Voflix (js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/voflix_n.js"},
 {"key":"dr_LIBVIO_n","name":"Libvio (js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/LIBVIO_n.js"},
@@ -11,7 +11,7 @@
 {"key":"dr_哔嘀影视_n","name":"哔嘀 (js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/哔嘀影视_n.js"},
 {"key":"dr_粤爱看_n","name":"粵愛看 (js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/粤爱看_n.js"},
 {"key":"dr_蓝光影院_n","name":"藍光 (js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/蓝光影院_n.js"},
-{"key":"csp_HoHo_cn","name":"HoHo (xbpq)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/HoHo_cn.json"},
+//{"key":"csp_HoHo_cn","name":"HoHo (xbpq)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/HoHo_cn.json"},
 
 {"key": "dr_88看球","name":"88看球 ⚽ 🏀","type":3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/88看球2.js"},
 {"key": "dr_JRKAN直播","name":"DJ看球 ⚽ 🏀","type":3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/JRKAN直播.js"}
@@ -53,5 +53,5 @@
 
   "ads": ["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/ts0316.jar"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/panda230320.jar"
 }
