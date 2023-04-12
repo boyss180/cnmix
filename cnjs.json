@@ -1,6 +1,6 @@
 {
   "sites": [
-{"key":"csp_Cokemv","name":"Coke-new","type":3,"api":"csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable":1,},
+{"key":"csp_Cokemv","name":"Coke-new","type":3,"api":"csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"dr_cokemv_n","name":"Coke (js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/cokemv_n.js"},
 {"key":"dr_voflix_n","name":"Voflix (js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/voflix_n.js"},
 {"key":"dr_LIBVIO_n","name":"Libvio (js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/LIBVIO_n.js"},
