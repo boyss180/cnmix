@@ -11,7 +11,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-{"key":"dr_voflix_n","name":"Voflix (js)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/voflix_n.js"},
         {
             "key": "csp_Lib",
             "name": "Libvio",
