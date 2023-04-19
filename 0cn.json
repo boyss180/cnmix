@@ -102,6 +102,7 @@
             "ext": "http://饭太硬.ga/x/json/bilibili.json"
         }
     ],
+  //解X设置
       "lives": [
         {
             "name": "live",
