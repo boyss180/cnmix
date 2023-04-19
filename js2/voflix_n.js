@@ -1,6 +1,6 @@
 var rule={
     title:'VOFLIX HD',
-    // host:'https://www.voflix.com',
+    // host:'https://www.voflix.me',
     host:'https://www.voflix.me',
     // homeUrl:'/',
     // url:'/show/fyclass--------fypage---.html',
