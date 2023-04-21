@@ -1,5 +1,5 @@
 var rule = {
-    title:'JRKAN直播',
+    title:'JRKAN直播-f',
     host:'http://www.jryyds.com',
     url:'/fyclass',
     searchUrl:'',
