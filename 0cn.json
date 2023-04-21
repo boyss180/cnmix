@@ -70,6 +70,8 @@
         },
 {"key": "dr_88看球","name":"88看球 ⚽ 🏀","type":3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/88看球2.js"},
 {"key": "dr_JRKAN直播","name":"DJ看球 ⚽ 🏀","type":3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/JRKAN直播.js"},
+{"key": "dr_88看球-f","name":"88看球-f ⚽ 🏀","type":3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/88看球-f.js"},
+{"key": "dr_JRKAN直播-f","name":"DJ看球-f ⚽ 🏀","type":3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/JRKAN直播-f.js"},
         {
             "key": "csp_Biliych",
             "name": "🎸演唱會",
