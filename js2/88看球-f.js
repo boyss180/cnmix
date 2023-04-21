@@ -1,6 +1,6 @@
 //地址发布页http://www.88kq.org/
 var rule = {
-    title:'88看球',
+    title:'88看球-f',
     // host:'http://www.88kanqiu.cc',
     host:'http://www.888kanqiu.tv/',
     url:'/match/fyclass/live',
