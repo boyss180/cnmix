@@ -32,19 +32,10 @@
         },
 	{
             "key": "dr_/77_new",
-            "name": "77 (js)",
+            "name": "77",
             "type": 3,
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/77_new.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_77",
-            "name": "77",
-            "type": 3,
-            "api": "csp_Kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
