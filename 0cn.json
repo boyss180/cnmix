@@ -40,7 +40,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-	{
+	//{
             "key": "csp_apple",
             "name": "小苹果",
             "type": 3,
@@ -122,6 +122,7 @@
             "ext": "http://饭太硬.ga/x/json/bilibili.json"
         }
     ],
+//解X设置
       "lives": [
         {
             "name": "live",
