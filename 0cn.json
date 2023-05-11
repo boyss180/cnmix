@@ -79,26 +79,26 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_Nmys",
-            "name": "农民",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/nm.json"
-        },
-        {
-            "key": "csp_Ysgc",
-            "name": "工厂",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.ysgc.fun"
-        },
+	{
+            "key": "csp_Nmys",
+            "name": "农民",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/农民_new.json"
+        },
+        {
+            "key": "csp_Ysgc",
+            "name": "工厂",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.ysgc.fun"
+        },
 {"key": "dr_88看球","name":"88看球 ⚽ 🏀","type":3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/88看球-f.js"},
 {"key": "dr_JRKAN直播","name":"DJ看球 ⚽ 🏀","type":3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/JRKAN直播-f.js"},
         {
@@ -427,5 +427,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.net/https://raw.githubusercontent.com/boyss180/cnmix/main/cc2.jar"
+       "spider":"https://ghproxy.net/https://raw.githubusercontent.com/boyss180/cnmix/main/cc3.jar"
 }
