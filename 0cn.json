@@ -11,7 +11,7 @@
 {"key": "csp_Smdyy", "name": "神馬", "type": 3, "api": "csp_Smdyy", "searchable": 1, "quickSearch": 1, "filterable": 1},
 {"key": "csp_Nmys", "name": "农民", "type": 3, "api": "csp_Nmys", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.net/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/农民_new.json"},
 //{"key": "dr_农民","name":"农民js","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/boyss180/cnmix/main/js2/农民js.js"},
-{"key": "csp_Ysgc", "name": "工厂", "type": 3, "api": "csp_Ysgc", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.ysgc.fun"},
+//{"key": "csp_Ysgc", "name": "工厂", "type": 3, "api": "csp_Ysgc", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.ysgc.fun"},
 {"key": "csp_Xinsj", "name": "新视觉", "type": 3, "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.6080dy3.com"},
 {"key": "csp_555", "name": "555", "type": 3, "api": "csp_Ys555", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.555dyy1.com"},
 {"key": "csp_Vofl","name": "Voflix","type": 3,"api": "csp_Voflix","searchable": 1,"quickSearch": 1,"filterable": 1},
